@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Infraestrutura de Rede
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Mobile
 - 🏡 I'm from Rio de Janeiro, RJ - Brasil
 
 <div style="display: inline_block"><br>
