@@ -1,7 +1,7 @@
 ## Hi, I'm Luiz
 
 
-- 🔭 I’m currently working on Infraestrutura de Rede
+- 🔭 I’m currently working on Flutter
 - 🌱 Currently I'm studying mobile development (Flutter and Java)
 - 🏡 I'm from Rio de Janeiro, RJ - Brasil
 
